@@ -2,7 +2,7 @@
 |-----------------------------------------|-------|
 | Github Repo                             |  100  |
 | Visit Office                            |  100  |
-| Assignment 1                            |       |
+| Assignment 1                            |![](http://f.cl.ly/items/1A0d2Q1J1N1u0C3g0C1s/null.gif)|
 
 
 #### Assignment 1 Comments:

@@ -14,7 +14,7 @@ http://cs3.mwsu.edu/~snaredla/dbProject/site
 ### File List
 
 
- README.md - This file explaining the project
+ README.md - This file explains the project
 
 
  SITE - folder containing the web pages for the project.
@@ -31,7 +31,7 @@ http://cs3.mwsu.edu/~snaredla/dbProject/site
 
   -registration_form.html - registration page for users information
 
- DOCUMENTS - contains all documents for project
+ DOCUMENTS - contains other documents of project
 
   -OnlineResume_tables.sql-code for dumping the values into tables 
 

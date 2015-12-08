@@ -31,7 +31,7 @@ http://cs3.mwsu.edu/~snaredla/dbProject/site
 
   - registration_form.html - registration page for users information
 
- DOCUMENTS - contains other documents of project
+DOCUMENTS - contains other documents of project
 
   - OnlineResume_tables.sql-code for dumping the values into tables 
 
